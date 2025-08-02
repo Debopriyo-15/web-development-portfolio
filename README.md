@@ -1,2 +1,2 @@
 # web-development-portfolio
-some of basic projects using html
+some of my basic projects using html
